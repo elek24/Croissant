@@ -8,4 +8,9 @@ h2 {
 }
 .links {
   text-align: center;
+  
+}
+.croissant {
+  display: block;
+  margin: auto;
 }
